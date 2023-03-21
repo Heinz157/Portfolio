@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import filmpire from "./filmpire.png";
 import cryptoket from "./cryptoket.png";
 import tripguide from "./tripguide.png";
+import live from "./live.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   filmpire,
   cryptoket,
   tripguide,
+  live,
 };

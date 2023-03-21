@@ -23,6 +23,7 @@ import {
     cryptoket,
     tripguide,
     threejs,
+    live,
   } from "../assets";
   
   export const navLinks = [
@@ -190,6 +191,7 @@ import {
       ],
       image: filmpire,
       source_code_link: "https://github.com/Heinz157/filmpire_andrew",
+      live_site_link: "https://filmpire-andrew.vercel.app/",
     },
     {
       name: "CryptoKet - Web3",
@@ -211,6 +213,7 @@ import {
       ],
       image: cryptoket,
       source_code_link: "https://github.com/Heinz157",
+      live_site_link: "https://filmpire-andrew.vercel.app/",
     },
     {
       name: "Trip Guide",
@@ -232,6 +235,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/Heinz157",
+      live_site_link: "https://filmpire-andrew.vercel.app/",
     },
   ];
   
