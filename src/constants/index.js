@@ -21,7 +21,7 @@ import {
     shopify,
     filmpire,
     cryptoket,
-    tripguide,
+    threeJS_index,
     threejs,
     live,
   } from "../assets";
@@ -216,26 +216,26 @@ import {
       live_site_link: "https://filmpire-andrew.vercel.app/",
     },
     {
-      name: "Trip Guide",
+      name: "T-Shirt Creator - AI",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A T-Shirt Creator app that allows users to create their own custom t-shirts. Users can also make use of Dall-E's AI to generate custom t-shirt designs.",
       tags: [
         {
-          name: "nextjs",
+          name: "Framer Motion",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "tailwindcss",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "ThreeJS",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/Heinz157",
-      live_site_link: "https://filmpire-andrew.vercel.app/",
+      image: threeJS_index,
+      source_code_link: "https://github.com/Heinz157/tshirt-creator",
+      live_site_link: "https://tshirt-creator-6oos.vercel.app/",
     },
   ];
   
