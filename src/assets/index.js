@@ -59,6 +59,6 @@ export {
   tesla,
   filmpire,
   cryptoket,
-  tripguide,
+  threeJS_index,
   live,
 };
