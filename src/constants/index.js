@@ -21,7 +21,7 @@ import {
     shopify,
     filmpire,
     cryptoket,
-    threeJS_index,
+    tshirt,
     threejs,
     live,
   } from "../assets";
@@ -233,7 +233,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: threeJS_index,
+      image: tshirt,
       source_code_link: "https://github.com/Heinz157/tshirt-creator",
       live_site_link: "https://tshirt-creator-6oos.vercel.app/",
     },

@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 
 import filmpire from "./filmpire.png";
 import cryptoket from "./cryptoket.png";
-import threeJS_index from "./threeJS_index.png";
+import tshirt from "./tshirt.png";
 import live from "./live.png";
 
 export {
@@ -59,6 +59,6 @@ export {
   tesla,
   filmpire,
   cryptoket,
-  threeJS_index,
+  tshirt,
   live,
 }; 
