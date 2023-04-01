@@ -218,7 +218,7 @@ import {
     {
       name: "T-Shirt Creator - AI",
       description:
-        "A T-Shirt Creator app that allows users to create their own custom t-shirts. Users can also make use of Dall-E's AI to generate custom t-shirt designs.",
+        "A T-Shirt Creator app that allows users to create their own custom t-shirts. Users can also make use of Dall-E's AI to generate custom t-shirt designs. ",
       tags: [
         {
           name: "Framer Motion",
