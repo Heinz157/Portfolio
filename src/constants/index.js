@@ -125,7 +125,7 @@ import {
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Implementing responsive design and fast load times to ensure a great user experience.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
@@ -134,11 +134,11 @@ import {
       company_name: "AJH Enterprises",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Feb 2018 - Present",
+      date: "October 2017 - Present",
       points: [
-        "Working closely with wholesalers internationally and customers across multiple platforms. Juggling all the hats of a commercial small business",
+        "Worked closely with wholesalers internationally and customers across multiple platforms. Juggled all the hats of a commercial small business",
         "Created ad campaigns across Amazon, Facebook, and Google platforms. Learned how to read analytics and respond appropriately.",
-        "Managed relationships with overseas wholesalers, and customers",
+        "Turned boring products into best sellers by creating unique branding and marketing strategies.",
         "Researched emerging commercial trends and developed strategies to capitalize on them.",
       ],
     },
@@ -196,7 +196,7 @@ import {
     {
       name: "CryptoKet - Web3",
       description:
-        "A Web3 powered NFT marketplace app that allows users to discover, buy, and sell NFTs. Users can also create their own NFTs and sell them on the marketplace.",
+        "(Work in Progress) A Web3 powered NFT marketplace app that allows users to discover, buy, and sell NFTs. Users can also create their own NFTs and sell them on the marketplace.",
       tags: [
         {
           name: "Solidity",
